@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[Click here to see the live demo]({https://weather-app-puce-one-39.vercel.app/})
+[Click here to see the live demo](https://weather-app-puce-one-39.vercel.app/)
 
 ## Overview
 
